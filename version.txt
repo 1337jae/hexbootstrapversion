@@ -1,5 +1,5 @@
 {
-    "SoftwareVersion": "1.0",
+    "SoftwareVersion": "4.0",
     "SoftwareUrl":"",
     "Status":"True",
     "Changelog":"[+] Test"
